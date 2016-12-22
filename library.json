@@ -10,7 +10,7 @@
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/lubosmedovarsky/PlatformIO-BearSSL.git"
+        "url": "https://github.com/medovarsky/PlatformIO-BearSSL.git"
     },
     "license": "MIT",
     "frameworks": "*",
