@@ -1,7 +1,7 @@
 BearSSL
 ==========
 
-BearSSL is an implementation of the SSL/TLS protocol (RFC 5246) written in C.
+BearSSL is an implementation of the SSL/TLS protocol (RFC 5246) written in C, written by Thomas Pornin.
 
 Features
 --------
@@ -28,4 +28,4 @@ Authors
 
 BearSSL library copyright (c) 2016 Thomas Pornin.
 
-BearSSL PlatformIO wrapper copyrigh (c) 2016 by Lubos Medovarsky.
+BearSSL PlatformIO wrapper copyright (c) 2016 by Lubos Medovarsky.
